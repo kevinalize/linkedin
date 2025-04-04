@@ -1,3 +1,5 @@
+# LinkedIn Post 20250404
+
 ```
 $ git commit -m 'update cv.md for application'
 ```
@@ -24,6 +26,6 @@ This might sound like overkill, but it's been a game-changer. I can:
 - Automate the PDF generation process.
 - Write cv with vim
 
-It's a continuous process of try and error, but I'm finally feeling in control of my job search.
+<https://www.linkedin.com/posts/kevin-cheung-278a32b4_jobsearch-git-versioncontrol-activity-7313876855516733440-9Cbz>
 
-hashtag#jobsearch hashtag#git hashtag#versioncontrol hashtag#cv hashtag#resume hashtag#vscode hashtag#markdown hashtag#vim hashtag#github hashtag#ats hashtag#careeradvice hashtag#softwaredevelopment hashtag#gemini hashtag#proofread hashtag#writing hashtag#搲撈
+It's a continuous process of try and error, but I'm finally feeling in control of my job search.
