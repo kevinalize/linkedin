@@ -4,7 +4,7 @@
 $ git commit -m 'update cv.md for application'
 ```
 
-Modern job hunt feels like throwing your resume into a **black hole**. Sending out countless applications, often to find yourself met with... silence. I am talking numbers like 10,000+ applications for a single opening, and if you're lucky, you might snag less than 5 interviews after sending out 1,000 applications (that's a <0.5% success rate!).
+Modern job hunt feels like throwing your resume into a **black hole**. Sending out countless applications, often to find yourself met with... silence. I am talking numbers like 10,000+ applicants (human+robot) for a single opening, and if you're lucky, you might snag less than 5 interviews after sending out 1,000 applications (that's a <0.5% success rate!).
 
 A combination of high volume and the ever-present ATS. You know, those digital gatekeepers that scan your resume for keywords and often toss it aside if it doesn't perfectly align exactly with the keyword patterns. Which means? Tailoring your CV for each and every role is a **must**.
 
@@ -26,6 +26,6 @@ This might sound like overkill, but it's been a game-changer. I can:
 - Automate the PDF generation process.
 - Write cv with vim
 
-<https://www.linkedin.com/posts/kevin-cheung-278a32b4_jobsearch-git-versioncontrol-activity-7313876855516733440-9Cbz>
-
 It's a continuous process of try and error, but I'm finally feeling in control of my job search.
+
+<https://www.linkedin.com/posts/kevin-cheung-278a32b4_jobsearch-git-versioncontrol-activity-7313876855516733440-9Cbz>
